@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Aurora Blink (--tone-5, #64FFDA) on her navy: the same orb as the app
+<!-- Aurora Blink (tone-5, #64FFDA) on her navy: the same orb as the app
      header, drawn as vectors so it stays sharp at any launcher size.
      Everything sits inside the 72dp safe zone of the 108dp canvas, so no
      launcher mask can crop the ring. -->
