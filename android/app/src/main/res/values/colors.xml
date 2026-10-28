@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- --blue-0 from the house palette: the app's own background. -->
+    <!-- blue-0 from the house palette: the app's own background. -->
     <color name="navy">#0D1B2A</color>
 </resources>
